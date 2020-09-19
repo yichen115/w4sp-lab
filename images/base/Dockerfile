@@ -1,5 +1,5 @@
 #get the base default ubuntu 14.04 image
-FROM registry.cn-beijing.aliyuncs.com/yichen115/ubuntu:14.04
+FROM registry.cn-shanghai.aliyuncs.com/yichen115/ubuntu:14.04
 
 MAINTAINER w4sp-book
 
