@@ -30,7 +30,7 @@
 
 新增一个 w4sp-lab.ova 这个兼容性应该会好点
 
-root 用户的密码应该也是 root 来着？我忘记了🐷
+root 的密码是 w4sp
 
 https://pan.baidu.com/s/1u5EuRBKW-fOM1RkQVqh-xQ 
 提取码：lggz
